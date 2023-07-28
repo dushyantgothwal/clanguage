@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-	int num=582,rem,sum=0;
+	int num=151152,rem,sum=0;
 	int temp;
 	temp=num;
 	while(num>0)
