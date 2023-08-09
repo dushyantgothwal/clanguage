@@ -1,0 +1,2 @@
+agex=input("Enter a msg :")
+print(" x has",x, type(x))

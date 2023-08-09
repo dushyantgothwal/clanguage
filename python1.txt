@@ -1,0 +1,7 @@
+age=19
+if(age==17):
+      print("age is 17")
+elif(age==19):
+      print("age is 19")
+else:
+      print("age is small")
